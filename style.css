@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  main {
+    padding: 10px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  img {
+    margin: 0 auto;
+  }
+  
